@@ -1,0 +1,32 @@
+db.productDetails.insertMany(
+[
+	
+    {
+		PName: "sareee",
+		Price: "30000",
+		Description: "fashion item  for women",
+	},
+    {
+		PName: "baby cloths",
+		Price: "3000",
+		Description: "fashion item  for baby",
+	},
+{   
+		PName: "suits",
+		Price: "35000",
+		Description: "fashion item  for women",
+	},
+
+{
+		PName: "suits men",
+		Price: "300000",
+		Description: "fashion item  for men",
+	},
+    {
+		PName: "sareee",
+		Price: "300000",
+		Description: "fashion item  for women",
+	},
+
+    ]
+)
